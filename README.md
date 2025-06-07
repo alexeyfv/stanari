@@ -13,7 +13,7 @@
 ## ✨ Features
 
 - 📊 Track rental prices by district.
-- 🏠 Compare prices by apartment size (rooms).
+- 📐 Compare prices by apartment size (rooms).
 - 📈 Explore price trends over time.
 - 🌍 Multilingual interface: Serbian, Russian, English.
 

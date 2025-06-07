@@ -46,7 +46,7 @@ msgstr ""
 "##### What is Stanari?\n"
 "Stanari helps you understand what the current rental prices are in Serbia:\n"
 " - 📊 Track rental prices by district\n"
-" - 🏠 Compare prices by apartment size\n"
+" - 📐 Compare prices by apartment size\n"
 " - 📈 See how prices have changed over time"
 
 #: ../pages/main.py:139

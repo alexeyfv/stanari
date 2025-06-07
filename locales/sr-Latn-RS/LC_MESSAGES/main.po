@@ -39,7 +39,7 @@ msgstr ""
 "##### Šta je Stanari?\n"
 "Stanari vam pomaže da shvatite koje su cene zakupa trenutno u Srbiji:\n"
 " - 📊 Pratite cene zakupa po opštinama\n"
-" - 🏠 Poredite cene po veličini stanova\n"
+" - 📐 Poredite cene po veličini stanova\n"
 " - 📈 Pogledajte kako su se cene menjale tokom vremena"
 
 msgid "medians_by_size"
