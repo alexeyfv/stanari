@@ -14,7 +14,7 @@ st.title(_("main_title"))  # 🏠 Stanari
 st.subheader(_("main_subheader"))  # Serbian rental market analytics
 
 # Database connection
-DB_URL = os.getenv("DATABASE_URL")
+DB_URL = st.secrets["DATABASE_URL"]
 
 
 @st.cache_data

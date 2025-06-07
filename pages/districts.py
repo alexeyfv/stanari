@@ -9,7 +9,7 @@ from l10n import use_l10n
 
 _ = use_l10n("districts")
 
-DB_URL = os.getenv("DATABASE_URL")
+DB_URL = st.secrets["DATABASE_URL"]
 
 
 @st.cache_data
