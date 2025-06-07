@@ -1,0 +1,49 @@
+# Language ru-RU translations for stanari package.
+# Copyright (C) 2025 THE stanari'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stanari package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stanari 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-01 22:50+0200\n"
+"PO-Revision-Date: 2025-06-01 22:50+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru-RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "main_title"
+msgstr "🏠 Stanari"
+
+msgid "main_subheader"
+msgstr "Аналитика рынка аренды в Сербии"
+
+msgid "active_listings"
+msgstr "Активные объявления"
+
+msgid "median_price"
+msgstr "Медианная цена"
+
+msgid "price_range"
+msgstr "90% объявлений в этом диапазоне"
+
+msgid "last_updated"
+msgstr "Последнее обновление"
+
+msgid "description"
+msgstr ""
+"##### Что такое Stanari?\n"
+"Stanari помогает вам понять, какие цены на аренду сейчас в Сербии:\n"
+" - 📊 Отслеживайте стоимость аренды по районам\n"
+" - 🏠 Сравнивайте цены по размерам квартир\n"
+" - 📈 Смотрите, как менялись цены с течением времени"
+
+msgid "medians_by_size"
+msgstr "##### Актуальные медианные цены аренды по размерам"
+
+msgid "x_median_price"
+msgstr "Медианная цена (€)"

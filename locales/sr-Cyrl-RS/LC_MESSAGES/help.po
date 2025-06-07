@@ -1,0 +1,41 @@
+# Language sr-Cyrl-RS translations for stanari package.
+# Copyright (C) 2025 THE stanari'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stanari package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stanari 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-05 19:30+0200\n"
+"PO-Revision-Date: 2025-06-05 19:30+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sr-Cyrl-RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "help_title"
+msgstr "Како да читате графиконе"
+
+msgid "boxplot_title"
+msgstr "Кутијасти дијаграм"
+
+msgid "heatmap_title"
+msgstr "Топлотна мапа"
+
+msgid "boxplot_description"
+msgstr ""
+"Кутијасти дијаграм приказује расподелу цена закупа:\n"
+"- **Средња линија (медијана)** — половина огласа је јефтинија, половина скупља.\n"
+"- **Лева граница** — само 5% станова је јефтиније од ове цене.\n"
+"- **Десна граница** — 95% станова је јефтиније од ове цене.\n"
+"- Вредности ван тих граница се сматрају изузецима и нису приказане."
+
+msgid "heatmap_description"
+msgstr ""
+"Топлотна мапа приказује колико су честе различите комбинације цене и квадратуре:\n"
+"- Тамни делови — више станова са том комбинацијом\n"
+"- Светли делови — мање станова\n"
+"- Бели делови — нема станова са том комбинацијом"

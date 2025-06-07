@@ -1,0 +1,50 @@
+# Language sr-Cyrl-RS translations for stanari package.
+# Copyright (C) 2025 THE stanari'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stanari package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stanari 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-05 20:10+0200\n"
+"PO-Revision-Date: 2025-06-05 20:10+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sr-Cyrl-RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "districts_title"
+msgstr "Цене закупа по општинама"
+
+msgid "districts_filters_subheader"
+msgstr "Избор параметара"
+
+msgid "studio"
+msgstr "Гарсоњера"
+
+msgid "1room"
+msgstr "1"
+
+msgid "2room"
+msgstr "2"
+
+msgid "3room"
+msgstr "3"
+
+msgid "4room"
+msgstr "4"
+
+msgid "5room"
+msgstr "5+"
+
+msgid "rooms"
+msgstr "Број соба"
+
+msgid "no_rooms_warnings"
+msgstr "Изаберите број соба"
+
+msgid "area"
+msgstr "Квадратура (м²)"

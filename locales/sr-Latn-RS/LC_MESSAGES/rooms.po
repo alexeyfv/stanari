@@ -1,0 +1,52 @@
+# Language sr-Latn-RS translations for stanari package.
+# Copyright (C) 2025 THE stanari'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stanari package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stanari 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-05 20:41+0200\n"
+"PO-Revision-Date: 2025-06-05 20:41+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sr-Latn-RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+msgid "rooms_title"
+msgstr "Cene zakupa po veličini stanova"
+
+msgid "rooms_description"
+msgstr "Ova stranica prikazuje kako se cene zakupa razlikuju u zavisnosti od veličine stana."
+
+msgid "overview"
+msgstr "Sve vrste"
+
+msgid "studio"
+msgstr "Garsonjera"
+
+msgid "1room"
+msgstr "1 soba"
+
+msgid "2room"
+msgstr "2 sobe"
+
+msgid "3room"
+msgstr "3 sobe"
+
+msgid "4room"
+msgstr "4 sobe"
+
+msgid "5room"
+msgstr "5+ soba"
+
+msgid "price"
+msgstr "Cena (€)"
+
+msgid "area"
+msgstr "Površina (m²)"
+
+msgid "number_of_apartments"
+msgstr "Broj stanova"

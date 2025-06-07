@@ -1,0 +1,42 @@
+# Language sr-Latn-RS translations for stanari package.
+# Copyright (C) 2025 THE stanari'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stanari package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stanari 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-31 22:45+0200\n"
+"PO-Revision-Date: 2025-05-31 22:45+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sr-Latn-RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "about_title"
+msgstr "O projektu"
+
+msgid "about_content"
+msgstr ""
+"Stanari je open-source dаšbord za istraživanje i analizu tržišta iznajmljivanja nekretnina u Srbiji.\n"
+"\n"
+"**Mogućnosti:**\n"
+"- 📊 Praćenje cena zakupa po opštinama i veličinama stanova\n"
+"- 🏠 Poređenje troškova zakupa po broju soba i površini\n"
+"- 📈 Pregled istorijskih trendova cena i broja oglasa\n"
+"- 🗺️ Interaktivne mape i vizualizacije za dublji uvid\n"
+"\n"
+"**Izvori podataka:**\n"
+"Stanari prikuplja podatke iz javnih oglasa o nekretninama i redovno se ažurira radi pružanja ažurne analitike tržišta.\n"
+"\n"
+"**Za koga je namenjen?**\n"
+"- Za stanare koji žele da donesu informisane odluke\n"
+"- Za istraživače i analitičare tržišta stanova\n"
+"- Za sve koji su zainteresovani za trendove iznajmljivanja u Srbiji\n"
+"\n"
+"Repozitorijum projekta: [GitHub](https://github.com/alexeyfv/stanari)\n"
+"\n"
+"Pridruži se našem Telegram kanalu: [@stanari_app](https://t.me/stanari_app)"

@@ -1,0 +1,41 @@
+# Language ru-RU translations for stanari package.
+# Copyright (C) 2025 THE stanari'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stanari package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stanari 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-05 19:30+0200\n"
+"PO-Revision-Date: 2025-06-05 19:30+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru-RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "help_title"
+msgstr "Как читать графики"
+
+msgid "boxplot_title"
+msgstr "Коробчатая диаграмма"
+
+msgid "heatmap_title"
+msgstr "Тепловая карта"
+
+msgid "boxplot_description"
+msgstr ""
+"Коробчатая диаграмма показывает распределение цен на аренду:\n"
+"- **Средняя линия (медиана)** — половина объявлений дешевле этого значения, половина — дороже.\n"
+"- **Левая граница** — только 5% квартир стоят дешевле.\n"
+"- **Правая граница** — 95% квартир стоят дешевле этой цены.\n"
+"- Значения за пределами этих границ считаются выбросами и не отображаются."
+
+msgid "heatmap_description"
+msgstr ""
+"Тепловая карта показывает, как часто встречаются разные сочетания цены и площади:\n"
+"- Тёмные участки — больше квартир с такой комбинацией\n"
+"- Светлые участки — меньше квартир\n"
+"- Белые зоны — квартир с такой комбинацией нет"

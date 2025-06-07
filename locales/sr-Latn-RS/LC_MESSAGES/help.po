@@ -1,0 +1,41 @@
+# Language sr-Latn-RS translations for stanari package.
+# Copyright (C) 2025 THE stanari'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stanari package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stanari 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-05 19:30+0200\n"
+"PO-Revision-Date: 2025-06-05 19:30+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sr-Latn-RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "help_title"
+msgstr "Kako da čitate grafikone"
+
+msgid "boxplot_title"
+msgstr "Kutijasti dijagram"
+
+msgid "heatmap_title"
+msgstr "Toplotna mapa"
+
+msgid "boxplot_description"
+msgstr ""
+"Kutijasti dijagram prikazuje raspodelu cena zakupa:\n"
+"- **Srednja linija (medijana)** — polovina oglasa je jeftinija, polovina skuplja.\n"
+"- **Leva granica** — samo 5% stanova je jeftinije od ove cene.\n"
+"- **Desna granica** — 95% stanova je jeftinije od ove cene.\n"
+"- Vrednosti van tih granica se smatraju izuzecima i nisu prikazane."
+
+msgid "heatmap_description"
+msgstr ""
+"Toplotna mapa prikazuje koliko su česte različite kombinacije cene i kvadrature:\n"
+"- Tamniji delovi — više stanova sa tom kombinacijom\n"
+"- Svetliji delovi — manje stanova\n"
+"- Beli delovi — nema stanova sa tom kombinacijom"
