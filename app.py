@@ -14,7 +14,7 @@ pages = {
     ],
     _("analysis"): [
         st.Page("pages/districts.py", icon="📊", title=_("by_districts")),
-        st.Page("pages/rooms.py", icon="🏠", title=_("by_apartment_size")),
+        st.Page("pages/rooms.py", icon="📐", title=_("by_apartment_size")),
         st.Page("pages/trends.py", icon="📈", title=_("trends")),
     ],
     _("help"): [
@@ -26,6 +26,8 @@ pages = {
 }
 
 st.set_page_config(
+    page_title="Stanari",
+    page_icon="🏠",
     layout="wide",
 )
 

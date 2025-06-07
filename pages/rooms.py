@@ -11,7 +11,8 @@ _ = use_l10n("rooms")
 
 DB_URL = st.secrets["DATABASE_URL"]
 
-st.header(_("rooms_title"))
+st.title(_("rooms_title"))
+
 st.markdown(_("rooms_description"))
 
 
